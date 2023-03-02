@@ -1,5 +1,5 @@
 def print_funny_story():
-    print ("lol")
+    print ("hi")
 
 def print2():
     print("blahblah")
